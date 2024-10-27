@@ -1,8 +1,9 @@
 #include "main.hpp"
+#include <iostream>
 
 // Do not change this file.
 // Use q1.hpp file to complete the functions
-
+using namespace std;
 int main()
 {
 	int begin, end;
